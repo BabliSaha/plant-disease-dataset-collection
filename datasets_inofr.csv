@@ -1,1 +1,3 @@
+Dataset Name,Source,Crops,Diseases,No_of_images,Link,Notes
+PlantVillage,Kaggle,"Tomato, Potato, Apple, Maize","26 diseases",54000+,https://www.kaggle.com/datasets/emmarex/plantdisease,"Large benchmark dataset"
 

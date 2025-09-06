@@ -1,0 +1,6 @@
+Dataset Name,Source,Crops,Diseases,No_of_images,Link,Notes
+PlantVillage,Kaggle,"Tomato, Potato, Apple, Maize",26 diseases,54000+,https://www.kaggle.com/datasets/emmarex/plantdisease,"Large benchmark dataset, widely used"
+PlantDoc,Research Paper,13 crops,17 diseases,2500+,https://github.com/pratikkayal/PlantDoc-Dataset,Collected from real field conditions
+Rice Leaf Disease,Kaggle,Rice,"Blast, Brown Spot, Hispa, Healthy",5000+,https://www.kaggle.com/datasets/minhhuy2810/rice-disease-image-dataset,Rice-specific dataset
+Tomato Leaf Disease,Kaggle,Tomato,"Early Blight, Late Blight, Leaf Mold",10000+,https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf,Focused on tomato crop
+Maize Leaf Disease,Kaggle,Maize,"Blight, Leaf Spot, Streak, Healthy",3800+,https://www.kaggle.com/datasets/nirmalsankalana/maize-leaf-disease-dataset,Useful for maize classification
